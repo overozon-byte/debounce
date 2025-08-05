@@ -68,4 +68,9 @@ end
 
 end
 
-<img width="1883" height="857" alt="time_tables" src="https://github.com/user-attachments/assets/ac4dc8c3-49f8-41dd-9294-47653a71f8e3" />
+Временные диаграммы:
+<img width="1236" height="162" alt="time_tables_4" src="https://github.com/user-attachments/assets/995792c8-05b4-4e3f-9b02-db59894cf587" />
+
+<img width="174" height="394" alt="debounce" src="https://github.com/user-attachments/assets/b0cea07a-8992-48b3-9c90-a7f59019b41b" />
+
+
