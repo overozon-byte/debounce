@@ -67,3 +67,5 @@ else OUT <= w_new_data;
 end
 
 end
+
+<img width="1883" height="857" alt="time_tables" src="https://github.com/user-attachments/assets/ac4dc8c3-49f8-41dd-9294-47653a71f8e3" />
